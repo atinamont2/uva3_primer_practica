@@ -11,7 +11,7 @@
  
  alert('Hola, su nombre es ' + nombre + ' tiene '+ edad + ' años y vive en ' + ciudad)
 
-const diasDeVida = 356*edad
+const diasDeVida = 365*edad
 
 alert('Usted ha vivido ' +  diasDeVida + ' dias')
 
